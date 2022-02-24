@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-family: sans-serif;
+    text-align: center;
+    margin: 0.8rem;
+}
+
+.classe-css-utilisateur {
+    padding: 1rem;
+    background-color: antiquewhite;
+    color: #0ebbbb;
+    font-weight: bold;
+}
+
